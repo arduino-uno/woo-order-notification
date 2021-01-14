@@ -1,8 +1,8 @@
-# Woo Order Notification (WordPress Plugin)
+# Woo Order Notification (<i>WordPress Plugin</i>)
 
 <img alt="Woo Order Notification (WordPress Plugin)" src="https://s3.envato.com/files/253101385/screenshots/01_preview1.jpg">
 
-A Simple <i>WooCommerce Order Notification</i> for Admin with <a href='https://codeseven.github.io/toastr' target='_blank'>Toastr (<i>Simple javascript toast notifications</i></a>
+A Simple <i>WooCommerce Order Notification</i> for Admin with <a href='https://codeseven.github.io/toastr' target='_blank'>Toastr (<i>Simple javascript toast notifications</i>)</a>
 
 ## Features
 
